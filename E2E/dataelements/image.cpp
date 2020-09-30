@@ -22,7 +22,8 @@
 
 #include <opencv/cv.h>
 #include <opencv/highgui.h>
-// #include <opencv2/imgcodecs.hpp>
+// #include <opencv2/imgproc.hpp>
+#include <opencv2/imgcodecs.hpp>
 
 #include "../streamhelper.h"
 #include "../datadict/e2emdbdata.h"
